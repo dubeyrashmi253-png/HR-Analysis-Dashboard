@@ -45,4 +45,3 @@ Supports employee retention and workforce planning discussions.
 
 **Screenshots**
 ![Dashboard Preview].(https://github.com/dubeyrashmi253-png/HR-Analysis-Dashboard/blob/main/HR%20Dashboard%20Page%201.png)
-![Dashboard Preview].(https://github.com/dubeyrashmi253-png/HR-Analysis-Dashboard/blob/main/HR%20Dashboard%20Page%202.png)
