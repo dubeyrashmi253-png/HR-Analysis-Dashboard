@@ -8,10 +8,10 @@ The HR Analytics Dashboard provides insights into workforce composition, employe
 The dashboard presents key HR metrics through interactive visualizations, enabling users to explore employee data and make informed workforce management decisions.
 
 **3. Tech Stack**
-
-**Power BI:** Interactive dashboard development and data visualization. 
-
-**Microsoft Excel:** Data preparation, organization, and preliminary analysis.
+• 📊 Power BI Desktop – Main data visualization platform used for report creation.
+• 📂 Power Query – Data transformation and cleaning layer for reshaping and preparing the data.
+• 🧠 DAX (Data Analysis Expressions) – Used for calculated measures, dynamic visuals, and conditional logic.
+• 📝 Data Modeling – Relationships established among tables (resorts, snow, and data_dictionary) to enable cross-filtering and aggregation.
 
 **4. Data Source**
 The raw dataset used for this project was acquired from _Maven Analytics_. The data was used to perform analysis, identify trends, evaluate key performance indicators (KPIs), and develop interactive visualizations in Power BI.
